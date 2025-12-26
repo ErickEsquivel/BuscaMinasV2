@@ -37,9 +37,9 @@ public class Funciones {
                         colocadas++;
                     }
                 }
-                System.out.print(matriz1[i][j] + "        ");
+                
             }
-            System.out.println();
+
         }
 
     }
